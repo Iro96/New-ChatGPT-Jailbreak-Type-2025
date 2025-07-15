@@ -5,4 +5,4 @@
 [![GitHub issues](https://img.shields.io/github/issues/Iro96/New-ChatGPT-Jailbreak-Type-2025?style=for-the-badge)](https://github.com/Iro96/New-ChatGPT-Jailbreak-Type-2025/issues)
 
 ## Read my report in file "ChatGPT New Jailbreak Type 2025.md" 
-### Thanks for visit!  By: Iro96
+### Thanks for visit! ─ By: Iro96
