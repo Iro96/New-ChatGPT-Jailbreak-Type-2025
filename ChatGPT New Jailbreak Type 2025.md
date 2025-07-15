@@ -1,8 +1,8 @@
 # New-ChatGPT-Jailbreak-Type-2025
 
-[![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange)](https://github.com/Iro96/Basic-Machine-Learning-Project)
-[![GitHub license](https://img.shields.io/github/license/Iro96/Basic-Machine-Learning-Project?style=for-the-badge)](https://github.com/Iro96/Basic-Machine-Learning-Project/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/Iro96/Basic-Machine-Learning-Project?style=for-the-badge)](https://github.com/Iro96/Basic-Machine-Learning-Project/issues)
+[![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange)]([https://github.com/Iro96/Basic-Machine-Learning-Project](https://github.com/Iro96/New-ChatGPT-Jailbreak-Type-2025))
+[![GitHub license](https://img.shields.io/github/license/Iro96/New-ChatGPT-Jailbreak-Type-2025?style=for-the-badge)](https://github.com/Iro96/New-ChatGPT-Jailbreak-Type-2025/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Iro96/New-ChatGPT-Jailbreak-Type-2025?style=for-the-badge)](https://github.com/Iro96/New-ChatGPT-Jailbreak-Type-2025/issues)
 
 ## I just found new way to jailbreak ChatGPT thast can do anything you ask it.
 
